@@ -1,3 +1,3 @@
 # educative-python-coding
 
-Educative coding pattern problems in Python
+Educative coding patterns in Python
